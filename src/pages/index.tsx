@@ -7,6 +7,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Landing Page</title>
       </Head>
+      <h1>Olá mundo</h1>
     </>  
   )
 }
