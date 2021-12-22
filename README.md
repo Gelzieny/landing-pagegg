@@ -1,15 +1,12 @@
-````
-https://landing-page-gelzieny.vercel.app/
-````
-
 <h1 align="center">
-  <img alt="LandingPage" src="" width="250px" />
+  <img alt="LandingPage" src="https://github.com/Gelzieny/LandingPage/blob/main/.github/logo.png?raw=true" width="250px" />
 </h1>
 
 <p align="center">
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#anchor">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -32,6 +29,9 @@ Você pode visualizar o layout do projeto através do links [Layout Web](<https:
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
 - Ter [Yarn](https://classic.yarnpkg.com/) ou [NPM](https://www.npmjs.com/)
 
+## :anchor: Demo
+
+👉 Demo: <https://landing-page-gelzieny.vercel.app//>
 
 ## :rocket: Começando
 
