@@ -14,7 +14,7 @@ https://landing-page-gelzieny.vercel.app/
 </p>
 
 <h1 align="center">
-    <img alt="DtMoney" src="" />
+    <img alt="LandingPage" src="https://github.com/Gelzieny/LandingPage/blob/main/.github/home.png?raw=true" />
 </h1>
 
 ## :page_with_curl: Sobre
